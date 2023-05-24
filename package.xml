@@ -4,7 +4,7 @@
   <name>threefinger_ctl</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="moe.f.sani">msani</maintainer>
+  <maintainer email="moesanib@gmail.com">msani</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake_ros</buildtool_depend>

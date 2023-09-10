@@ -1,6 +1,8 @@
 # threefinger_ctl
 ros2 package for three finger tool v2
 
+follow the setup page for detailed instructions:[setup.md](https://github.com/moe-sani/threefinger_ctl/docs/setup.md)
+
 # Environment
 
 deactivate your conda environment if you have any

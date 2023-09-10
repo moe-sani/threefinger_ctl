@@ -1,7 +1,7 @@
 # threefinger_ctl
 ros2 package for three finger tool v2
 
-follow the setup page for detailed instructions:[setup.md](https://github.com/moe-sani/threefinger_ctl/docs/setup.md)
+follow the setup page for detailed instructions:[setup.md](https://https://github.com/moe-sani/threefinger_ctl/blob/main/docs/setup.md)
 
 # Environment
 
